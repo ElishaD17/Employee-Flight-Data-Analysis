@@ -39,9 +39,6 @@ This project focuses on the cleaning, transformation, and visualization of emplo
      - Country and profit status.
      - Time-series representation of sales per country 
      - Sales per year.
-   
-   ![main](main v.png)
-     
    - Implement filters, top N features, and slicers for enhanced data interactivity.
    - Enhance visuals with advanced formatting and add analytical lines for context.
    - Address any merging issues between queries to maintain data integrity.
@@ -52,6 +49,8 @@ This project focuses on the cleaning, transformation, and visualization of emplo
 
 ## Results
 
+ ![main](main v-min.png)
+     
 - A comprehensive Power BI dashboard that elucidates employee flight data in an interactive manner.
 - Transparent visuals elucidating patterns, anomalies, or other significant data points.
 
