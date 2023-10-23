@@ -39,8 +39,8 @@ This project focuses on the cleaning, transformation, and visualization of emplo
      - Country and profit status.
      - Time-series representation of sales per country 
      - Sales per year.
-     -  
-       ![afd](Sales per year.png)
+   
+   ![main](main v.png)
      
    - Implement filters, top N features, and slicers for enhanced data interactivity.
    - Enhance visuals with advanced formatting and add analytical lines for context.
