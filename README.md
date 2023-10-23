@@ -34,17 +34,23 @@ This project focuses on the cleaning, transformation, and visualization of emplo
 4. **Data Visualization**:
    - Create diverse visuals to represent:
      - Sales per county.
-        ![ad](9.png)
+       ![ahhd](Sales per county.n.png)
+       
      - Profit per product.
-       ![ad](9.png)
+      ![adgg](Profit per product.png)
+       
      - Slice profit per product.
-       ![ad](9.png)
+       ![ahd](Slice profit per product.png)
+       
      - Country and profit status.
-       ![ad](9.png)
+       ![gad](Country and profit status.png)
+       
      - Time-series representation of sales per country
-        ![ad](9.png)
-      - Sales per year.
-       ![ad](9.png)
+       ![adj](sales per country.png)
+       
+      - Sales per year.  
+       ![afd](Sales per year.png)
+     
    - Implement filters, top N features, and slicers for enhanced data interactivity.
    - Enhance visuals with advanced formatting and add analytical lines for context.
    - Address any merging issues between queries to maintain data integrity.
