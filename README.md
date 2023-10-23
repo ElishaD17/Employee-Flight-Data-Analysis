@@ -49,7 +49,7 @@ This project focuses on the cleaning, transformation, and visualization of emplo
 
 ## Results
 
- ![main](main v-min.png)
+[ ![main](main v-min.png)](https://imgur.com/a/oDtSDGp)
      
 - A comprehensive Power BI dashboard that elucidates employee flight data in an interactive manner.
 - Transparent visuals elucidating patterns, anomalies, or other significant data points.
