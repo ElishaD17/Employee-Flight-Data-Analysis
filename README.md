@@ -48,8 +48,7 @@ This project focuses on the cleaning, transformation, and visualization of emplo
    - Construct measures in Power BI Desktop for dynamic calculations.
 
 ## Results
-
-[ ![main](main v-min.png)](https://imgur.com/a/oDtSDGp)
+![mv](mia.png)
      
 - A comprehensive Power BI dashboard that elucidates employee flight data in an interactive manner.
 - Transparent visuals elucidating patterns, anomalies, or other significant data points.
